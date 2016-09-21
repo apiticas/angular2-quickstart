@@ -10,4 +10,3 @@ export class AppComponent {
     title = 'Tour of Heroes';
 
 }
-}
